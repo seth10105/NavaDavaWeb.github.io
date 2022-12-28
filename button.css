@@ -96,6 +96,7 @@ button {
 .input {
    margin-left: 47%;
    font-family: 'Poppins', sans-serif;
+    background-color: forestgreen;
 }
 input {
     margin-right: 5px;
