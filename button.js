@@ -8,7 +8,7 @@ document.getElementById("btn").onclick = function() {
 
     if(username == 'Seth' && password == '1234') {
         alert('Password correct access to main granted.');
-        window.open("file:///D:/Sethscode/Game%20Design/Fish/nav.html");
+        window.open("nav.html");
     } else {
       alert("Password, Username or Country incorrect.");
     } 
